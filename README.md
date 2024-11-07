@@ -1,4 +1,4 @@
-# Gishushu Traffic Lights System
+# state diagram assignment Gishushu Traffic Lights System
 
 ## Overview
 
